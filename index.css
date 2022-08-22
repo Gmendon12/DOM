@@ -1,0 +1,30 @@
+#text{
+    color: black;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.box{
+    color: tomato;
+    font-size: 25px;
+}
+.parent{
+    display: flex;
+    flex-direction: row;
+    background-color: green;
+    width: 500px;
+
+}
+.child{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border: 1px solid red;
+    border-radius: 5px;
+    margin: 20px;
+}
+button{
+    color: maroon;
+    background-color: aqua;
+    border:2px solid blue;
+    border-radius: 5px;
+}
